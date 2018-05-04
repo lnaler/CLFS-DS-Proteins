@@ -1,5 +1,5 @@
 # CLFS-DS-Proteins
-Python scripts to analyze a set of 77 proteins taken for wild-type and Down syndrome mice that have undergone stimulation and treatment. Goal is to extract proteins important to discriminate between the various classes. Analysis also performed of how different classifiers affect this problem.
+Python scripts to analyze a [dataset](https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression) of 77 proteins taken for wild-type and Down syndrome mice that have undergone stimulation and treatment from UCI Machine Learning Repository. Goal is to extract proteins important to discriminate between the various classes. Analysis also performed of how different classifiers affect this problem.
 
 Last updated May 4th, 2018
 
